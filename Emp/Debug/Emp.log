@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\source\repos\OOP\Emp\Manager.h(21,1): error C2440: =: невозможно преобразовать "const Employer *" в "Employer *"
+C:\Users\User\source\repos\OOP\Emp\Manager.h(21,19): message : В результате преобразования теряются квалификаторы
+  Manager.cpp
+C:\Users\User\source\repos\OOP\Emp\Manager.h(21,1): error C2440: =: невозможно преобразовать "const Employer *" в "Employer *"
+C:\Users\User\source\repos\OOP\Emp\Manager.h(21,19): message : В результате преобразования теряются квалификаторы
+  Создание кода...
